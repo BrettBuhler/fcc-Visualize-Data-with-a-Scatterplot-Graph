@@ -16,7 +16,7 @@ body {
 #tooltip {
     visibility: hidden;
     position: absolute;
-    top: 15%;
+    top: 22vh;
     color: white;
 }
 
